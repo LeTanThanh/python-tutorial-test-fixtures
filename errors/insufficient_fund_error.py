@@ -1,0 +1,2 @@
+class InsufficientFundError(Exception):
+  pass
